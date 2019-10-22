@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My app will allow users to keep track of campsites they visit. They will create an account that will let them track and search through campsites they have been to. It will let them rate how much they liked the campsite. They will be able to note things the campsite provided. Users will be able to update and remove campsites.
 ### Features
-Include Features here
+User login
+Post campsites
+Update and remove campsites
 ### Technologies
-Include Technologies here
+Java
+Javascript
+MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn javascript
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/RIBSUglw/capstone-project
