@@ -9,12 +9,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 My app will allow users to keep track of campsites they visit. They will create an account that will let them track and search through campsites they have been to. It will let them rate how much they liked the campsite. They will be able to note things the campsite provided. Users will be able to update and remove campsites.
 ### Features
-User login
-Post campsites
+User login,
+Post campsites,
 Update and remove campsites
 ### Technologies
-Java
-Javascript
+Java,
+Javascript,
 MySQL
 ### What I'll Have to Learn
 I will have to learn javascript
